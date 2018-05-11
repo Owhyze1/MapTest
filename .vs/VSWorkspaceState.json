@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\node_modules\\react-native",
+    "\\node_modules\\react-native\\ReactAndroid",
+    "\\node_modules\\react-native\\ReactAndroid\\src",
+    "\\node_modules\\react-native\\ReactAndroid\\src\\androidTest",
+    "\\node_modules\\react-native\\ReactAndroid\\src\\androidTest\\buck-runner",
+    "\\node_modules\\react-native\\ReactAndroid\\src\\main",
+    "\\node_modules\\react-native\\ReactAndroid\\src\\main\\java",
+    "\\src",
+    "\\src\\components"
+  ],
+  "SelectedNode": "\\node_modules",
+  "PreviewInSolutionExplorer": false
+}
